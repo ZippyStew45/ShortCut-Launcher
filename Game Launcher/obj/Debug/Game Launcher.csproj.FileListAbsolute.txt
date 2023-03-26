@@ -1,0 +1,11 @@
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\obj\Debug\Game Launcher.csproj.AssemblyReference.cache
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\obj\Debug\Game Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\obj\Debug\Game_Launcher.Form1.resources
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\obj\Debug\Game_Launcher.Properties.Resources.resources
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\obj\Debug\Game Launcher.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\obj\Debug\Game Launcher.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\bin\Debug\Game Launcher.exe.config
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\bin\Debug\Game Launcher.exe
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\bin\Debug\Game Launcher.pdb
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\obj\Debug\Game Launcher.exe
+C:\Users\georg\OneDrive\Documents\Aottg C++ Launcher\Game Launcher\obj\Debug\Game Launcher.pdb
